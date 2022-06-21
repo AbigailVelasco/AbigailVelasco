@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi! I'm Abi  👋
 
-<!--
-**AbigailVelasco/AbigailVelasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer science student  💻🎓
+###
+My career goal is to create stuff that makes the life of others less frustrating and more enjoyable while having a lot of fun and learning lots of things. 
+ 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on css animations
+- 🌱 I’m currently learning UX/UI design
+- 🤔 I’m looking for help with choosing a career path
+- 💬 Ask me about anything
+- 📫 How to reach me: [instagram](https://www.instagram.com/abi.ve.ga/)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I enjoy playing the piano, taking pictures, and drawing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
