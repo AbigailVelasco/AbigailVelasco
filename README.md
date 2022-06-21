@@ -23,7 +23,7 @@ My career goal is to create stuff that makes the life of others less frustrating
 <img align="left"  width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left"  width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"/>
 <img align="left"  width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"/>
-<img align="left"  width="50px" src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+<img align="left"  width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 
 <br/><br/><br>
 <h3>Web</h3>
@@ -39,9 +39,10 @@ My career goal is to create stuff that makes the life of others less frustrating
 <img align="left"  width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left"  width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
 <img align="left"  width="25px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
-<img align="left"  width="25px" src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+<img align="left"  width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
+<img align="left"  width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
 
- </div>
+</div>
  
 <br/><br/><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/AbigailVelasco/AbigailVelasco.git)
