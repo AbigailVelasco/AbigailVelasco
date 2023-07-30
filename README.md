@@ -2,13 +2,13 @@
 
 ### Hi! I'm Abi  👋
 
-I am a computer science student  💻🎓
+I am a computer science graduate  💻🎓
 ###
-My career goal is to create stuff that makes the life of others less frustrating and more enjoyable while having a lot of fun and learning lots of things. 
+My career goal is to create stuff that makes others’ life less frustrating and more enjoyable while having fun and learning along the way.
  
 <img width="300" align="right" src="https://github.com/AbigailVelasco/AbigailVelasco/blob/main/giphy.gif"/>
 
-- 🔭 I’m currently working on css animations
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning UX/UI design
 - 🤔 I’m looking for help with choosing a career path
 - 💬 Ask me about anything
